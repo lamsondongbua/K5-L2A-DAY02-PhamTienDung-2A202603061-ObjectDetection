@@ -61,7 +61,6 @@ Kết quả nằm trong `outputs/annotation_evaluation.json`. `passed` vẫn là
 | mAP50 | 0.2706 |
 | mAP50–95 | 0.1995 |
 
-Đặt cả 2 folder `assets/eval_predictions/` và `assets/yolo26_runs/` (giải nén từ `day2_colab_outputs.zip`) cạnh báo cáo và dẫn link tương đối. Không chỉ ghi số; chỉ ra ít nhất một ảnh và vật thể cụ thể.
 
 - Ảnh dự đoán 10 ảnh eval: [assets/eval_predictions/visuals/](assets/eval_predictions/visuals/)
 - Ảnh cụ thể: [assets/eval_predictions/visuals/drive_051.jpg](assets/eval_predictions/visuals/drive_051.jpg)
